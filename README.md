@@ -1,5 +1,4 @@
-                                                                Exceptionh                                          Exception Handling
-
+                                                      Exception Handling
 This Python script demonstrates various ways to handle exceptions in Python using different techniques like try-except blocks, custom exceptions, and file handling. The script handles common errors such as division by zero, invalid input types, negative number handling, and more. It also demonstrates how to raise custom exceptions and catch multiple exceptions in one block.
 
 Features
